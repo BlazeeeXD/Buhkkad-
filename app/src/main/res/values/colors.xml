@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="cafe_bg_creme">#F2EBE1</color>
+    <color name="cafe_white">#FFFDFB</color>
+
+    <color name="cafe_brown_primary">#6D4C41</color>
+    <color name="cafe_brown_dark">#4E342E</color>
+
+    <color name="cafe_icon_orange">#D7A478</color>
+    <color name="cafe_icon_green">#8BA888</color>
+
+    <color name="text_main">#2D2D2D</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_on_brown">#FFFFFF</color>
+
+    <color name="cafe_bg_light">#F5EFE6</color>
+    <color name="cafe_surface_white">#FFFBF5</color>
+    <color name="cafe_primary_brown">#6D4C41</color>
+    <color name="cafe_accent_orange">#D7A87F</color>
+    <color name="cafe_accent_green">#8BA888</color>
+    <color name="text_primary">#333333</color>
 </resources>
+
+
