@@ -21,6 +21,10 @@
             android:exported="false" />
 
         <activity
+            android:name=".AddItemActivity"
+            android:exported="false" />
+
+        <activity
             android:name=".StaffDashboardActivity"
             android:exported="true">
             <intent-filter>
