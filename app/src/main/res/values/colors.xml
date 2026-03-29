@@ -19,6 +19,10 @@
     <color name="cafe_accent_orange">#D7A87F</color>
     <color name="cafe_accent_green">#8BA888</color>
     <color name="text_primary">#333333</color>
+
+    <color name="cafe_cream_card">#FDF7F0</color>
+    <color name="text_dimmed">#9E9E9E</color>
+    <color name="white">#FFFFFF</color>
 </resources>
 
 

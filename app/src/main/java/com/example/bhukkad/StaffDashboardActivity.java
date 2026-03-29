@@ -69,7 +69,8 @@ public class StaffDashboardActivity extends AppCompatActivity {
 
         // Tapping the Menu Management card
         binding.btnMenuManagement.setOnClickListener(v -> {
-            android.widget.Toast.makeText(this, "Opening Menu Editor...", android.widget.Toast.LENGTH_SHORT).show();
+            android.content.Intent intent = new android.content.Intent(StaffDashboardActivity.this, MenuManagementActivity.class);
+            startActivity(intent);
         });
 
         // Tapping the Revenue Card could show a detailed report
