@@ -1,3 +1,36 @@
 <resources>
     <string name="app_name">Bhukkad</string>
+
+    <string name="order_tracking">Order Tracking</string>
+    <string name="order_id_tracking">Order ID: #12345</string>
+    <string name="order_received">Order Received</string>
+    <string name="in_progress">In Progress</string>
+    <string name="preparing">Preparing your food</string>
+    <string name="ready_for_pickup">Ready for Pickup</string>
+    <string name="pickup_time">Estimated Pickup</string>
+    <string name="pickup_time_val">15 mins</string>
+
+    <string name="orders">My Orders</string>
+    <string name="active_orders">Active Orders</string>
+    <string name="past_orders">Past Orders</string>
+
+    <string name="payment_successful">Payment Successful!</string>
+    <string name="order_placed_success">Your order has been placed successfully.</string>
+    <string name="track_order">Track My Order</string>
+    <string name="profile">Profile</string>
+    <string name="user_name">User Name</string>
+    <string name="user_details">View and edit your profile</string>
+    <string name="personal_info">Personal Info</string>
+    <string name="personal_info_sub">Manage your personal details</string>
+    <string name="payment_history">Payment History</string>
+    <string name="manage_payment">Manage your payment methods</string>
+    <string name="order_history">Order History</string>
+    <string name="view_past_orders">View all your past orders</string>
+    <string name="log_out">Log Out</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet...</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="action_settings">Settings</string>
 </resources>
